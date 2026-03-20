@@ -1,0 +1,6 @@
+Flask
+flask-cors
+requests
+requests-oauthlib
+supabase
+python-dotenv
